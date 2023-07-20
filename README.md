@@ -1,1 +1,2 @@
 # Excel_VBA_to_clean_data
+When working at Lee's Sandwiches, I have to deal with raw data downloaded from the POS system in a format similar to the attached example file (the data in the file has been modified and reduced). I realized that manually cleaning the data would be very time-consuming, as the actual file is over 5000 rows long, and I have to process many files like this. So, I wrote a VBA code to help me handle the data with just one click.
